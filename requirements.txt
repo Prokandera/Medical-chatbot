@@ -1,0 +1,7 @@
+flask
+python-dotenv
+pinecone-client
+langchain-community
+ctransformers
+langchain_huggingface
+sentence-transformers
